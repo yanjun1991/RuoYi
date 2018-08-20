@@ -30,3 +30,6 @@ http://webapplayers.com/inspinia_admin-v2.7.1
 > admin/admin123
 
 地址：http:localhost:8080/RuoYi/index
+
+
+最新：多环境部署到服务器tomcat
