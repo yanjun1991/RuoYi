@@ -1,15 +1,7 @@
+项目参考并后续修改完善，以及添加了新功能。
 ## 平台简介
 
-一直想做一款后台管理系统，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间开始自己写了一套后台系统。如此有了若依。她可以用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA。所有前端后台代码封装过后十分精简易上手，出错概率低。同时支持移动客户端访问。系统会陆续更新一些实用功能。
-
-性别男，若依是女儿的名字。
-
-若依基于hplus和inspinia两套后台系统摸版开发。有需要可自行到群内下载。
-
-http://www.zi-han.net/theme/hplus
-
-http://webapplayers.com/inspinia_admin-v2.7.1 
-
+该项目属于后台管理系统，系统会陆续更新一些实用功能。
 ## 内置功能
 
 1.  用户管理：用户是系统操作者。
@@ -31,24 +23,7 @@ http://webapplayers.com/inspinia_admin-v2.7.1
 ## 在线体验
 > admin/admin123
 
-地址：http://www.ruoyi.club
+地址：http:localhost:8080/RuoYi/index
 
-## 演示图
 
-![登录界面](https://static.oschina.net/uploads/space/2018/0524/212432_qg6h_1438828.png)
-
-![系统首页](https://static.oschina.net/uploads/space/2018/0701/115902_NCkT_1438828.png)
-
-![用户管理](https://static.oschina.net/uploads/space/2018/0701/115839_hYTP_1438828.png)
-
-![用户修改](https://static.oschina.net/uploads/space/2018/0701/115832_x60e_1438828.png)
-
-![头像修改](https://static.oschina.net/uploads/space/2018/0524/212518_Yfce_1438828.png)
-
-![菜单管理](https://static.oschina.net/uploads/space/2018/0524/212531_h3M5_1438828.png)
-
-![角色管理](https://static.oschina.net/uploads/space/2018/0701/115825_EsL2_1438828.png)
-
-## 若依交流群
-
-QQ群： [![加入QQ群](https://img.shields.io/badge/QQ群-1389287-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=4a9a52f5d9d9c65a8ea67859170ba835d95fc50ec74a2a722293e60e036b5016) 或 [![加入QQ群](https://img.shields.io/badge/QQ群-1389287-blue.svg)](https://jq.qq.com/?_wv=1027&k=5HBAaYN)，推荐点击按钮入群，当然如果无法成功操作，请自行搜索群号`1389287`进行添加
+最新：多环境部署到服务器tomcat
