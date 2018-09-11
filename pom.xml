@@ -278,7 +278,7 @@
 			<id>test</id>
 			<properties>
 				<profileActive>test</profileActive>
-				<deploy.url>http://10.10.10.20:8080/manager/text</deploy.url>
+				<deploy.url>http://106.14.185.55:8080/manager/text</deploy.url>
 			</properties>
 		</profile>
 		<profile>
