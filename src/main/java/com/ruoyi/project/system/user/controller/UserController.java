@@ -41,6 +41,13 @@ public class UserController extends BaseController
     @Autowired
     private IPostService postService;
 
+    @RequestMapping(value = "/get", method = RequestMethod.GET, produces = { "application/json;charset=UTF-8" })
+    @ResponseBody
+    public User employs( Long userId) {
+        User user = userService.selectUserById(userId);
+        return user;
+    }
+
     @RequiresPermissions("system:user:view")
     @GetMapping()
     public String user()
